@@ -4,6 +4,7 @@ WordPress developer and engineer (BEng, NED University) based in Karachi, Pakist
 I build and fix WordPress websites: **Elementor** page design, **WooCommerce** stores, CSS/responsive bug fixes, speed optimisation and basic **site security** hardening.
 I also work with Docker, CI/CD and AWS infrastructure.
 
+- 🌐 Portfolio website: **[wahablabs.github.io](https://wahablabs.github.io)**
 - 💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01070211c5bbfca5e8)
 - 🏢 Agency: AWL Solutions
 
@@ -15,15 +16,15 @@ I also work with Docker, CI/CD and AWS infrastructure.
 
 **DevOps:** Docker · Docker Compose · Nginx · GitHub Actions · Terraform · AWS (EKS, VPC) · Node.js · PostgreSQL
 
-## 📂 WordPress portfolio demos
+## 📂 WordPress projects
 
-These are concept demos built with sample data to show my process and code.
+Self-initiated projects built around fictional businesses to show my full workflow. Full case studies with before and after screenshots are on [my website](https://wahablabs.github.io/#projects).
 
 | Project | What it shows |
 |---------|---------------|
-| [harbor-plumbing-elementor-demo](https://github.com/wahablabs/harbor-plumbing-elementor-demo) | Responsive small-business website built with Elementor, with basic security hardening |
-| [northline-woocommerce-demo](https://github.com/wahablabs/northline-woocommerce-demo) | WooCommerce clothing store with variable products, Elementor homepage and a tested cart/checkout flow |
-| [olive-ember-wordpress-bugfix-demo](https://github.com/wahablabs/olive-ember-wordpress-bugfix-demo) | Redesign and 8 CSS, responsive and speed fixes in a child theme; Lighthouse mobile 71 → 89, desktop 75 → 99 |
+| [Harbor Plumbing Co.](https://github.com/wahablabs/harbor-plumbing-elementor-demo) | Responsive small-business website built with Elementor, with basic security hardening |
+| [Northline Apparel](https://github.com/wahablabs/northline-woocommerce-demo) | WooCommerce clothing store with variable products, Elementor homepage and a tested cart/checkout flow |
+| [Olive & Ember Bistro](https://github.com/wahablabs/olive-ember-wordpress-bugfix-demo) | Redesign and 8 CSS, responsive and speed fixes in a child theme; Lighthouse mobile 71 → 89, desktop 75 → 99 |
 
 ## ⚙️ DevOps projects
 
@@ -35,4 +36,4 @@ These are concept demos built with sample data to show my process and code.
 
 ## 📫 Work with me
 
-Need a WordPress site built, a WooCommerce store set up, or a broken layout fixed? Message me on [Upwork](https://www.upwork.com/freelancers/~01070211c5bbfca5e8).
+Need a WordPress site built, a WooCommerce store set up, or a broken layout fixed? Message me on [Upwork](https://www.upwork.com/freelancers/~01070211c5bbfca5e8) or see more at [wahablabs.github.io](https://wahablabs.github.io).
