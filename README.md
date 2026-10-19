@@ -22,9 +22,9 @@ Self-initiated projects built around fictional businesses to show my full workfl
 
 | Project | What it shows |
 |---------|---------------|
-| [Harbor Plumbing Co.](https://github.com/wahablabs/harbor-plumbing-elementor-demo) | Responsive small-business website built with Elementor, with basic security hardening |
-| [Northline Apparel](https://github.com/wahablabs/northline-woocommerce-demo) | WooCommerce clothing store with variable products, Elementor homepage and a tested cart/checkout flow |
-| [Olive & Ember Bistro](https://github.com/wahablabs/olive-ember-wordpress-bugfix-demo) | Redesign and 8 CSS, responsive and speed fixes in a child theme; Lighthouse mobile 71 → 89, desktop 75 → 99 |
+| [Harbor Plumbing Co.](https://github.com/wahablabs/harbor-plumbing-elementor-website) | Responsive small-business website built with Elementor, with basic security hardening |
+| [Northline Apparel](https://github.com/wahablabs/northline-woocommerce-store) | WooCommerce clothing store with variable products, Elementor homepage and a tested cart/checkout flow |
+| [Olive & Ember Bistro](https://github.com/wahablabs/olive-ember-wordpress-redesign-bugfix) | Redesign and 8 CSS, responsive and speed fixes in a child theme; Lighthouse mobile 71 → 89, desktop 75 → 99 |
 
 ## ⚙️ DevOps projects
 
