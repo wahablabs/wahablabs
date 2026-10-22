@@ -6,10 +6,8 @@ I also work with Docker, CI/CD and AWS infrastructure.
 
 - 🌐 Portfolio website: **[wahablabs.github.io](https://wahablabs.github.io)**
 - 💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01070211c5bbfca5e8)
-- 🏢 Agency: AWL Solutions
-
 ## 🧰 What I work with
-
+---
 **WordPress:** WordPress · Elementor · WooCommerce · Child themes · PHP · CSS · Responsive design · Contact Form 7
 
 **Performance & security:** Lighthouse audits · Image optimisation (WebP) · Login hardening · Security headers · XML-RPC lockdown
